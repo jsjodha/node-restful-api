@@ -1,0 +1,17 @@
+{
+  "name": "restfullsample",
+  "version": "1.0.0",
+  "description": "'node sample for restfull services.",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "author": "jsjodha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.4",
+    "node-restful": "^0.2.5"
+  }
+}
